@@ -1,7 +1,7 @@
 
 # Calculadora en JavaScript
 
-Link para ver resultado: [CALCULADORA TRABAJO TERMINADO](https://calculadora-tutorial-js.netlify.app/)
+Link para ver resultado: [CALCULADORA TRABAJO TERMINADO](https://master--calculadorajs-albert-tzek.netlify.app/)
 
 Esta es la clásica aplicación Calculadora utilizando el lenguaje de progrmación JavaScript junto con Html y CSS.
 
